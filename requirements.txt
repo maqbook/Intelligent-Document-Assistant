@@ -1,0 +1,10 @@
+langchain
+langchain-openai
+langchain-pinecone
+streamlit
+fastapi
+uvicorn
+sqlalchemy
+alembic
+pytest
+python-dotenv
